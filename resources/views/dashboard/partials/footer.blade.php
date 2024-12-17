@@ -5,7 +5,7 @@
         <ul class="list-inline list-inline-dots mb-0">
           <li class="list-inline-item">
             Copyright &copy; 2024
-            <a href="#" class="link-secondary">Tehvaro</a>.
+            <a href="#" class="link-secondary">Ruang Teh</a>.
             All rights reserved.
           </li>
         </ul>

@@ -26,6 +26,7 @@ class UserSeeder extends Seeder
                 'password' => bcrypt('123456'),
                 'avatar_url' => null
             ]
+            
         ]);
     }
 }

@@ -5,7 +5,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
   <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-  <title>Login - Tehvaroo</title>
+  <title>Login - Ruang Teh</title>
   <!-- CSS files -->
   <link href="{{ asset('plugins/tabler/dist/css/tabler.min.css') }}" rel="stylesheet" />
   <link href="{{ asset('plugins/tabler/dist/css/tabler-flags.min.css') }}" rel="stylesheet" />
@@ -118,7 +118,7 @@ body {
             </div>
           </form>
         </div>
-        <div class="hr-text">Or</div>
+        {{-- <div class="hr-text">Or</div>
         <div class="card-body">
           <div class="row">
             <div class="col">
@@ -128,10 +128,10 @@ body {
               </a>
             </div>
           </div>
-        </div>
+        </div> --}}
       </div>
       <div class="text-center text-muted mt-5">
-        © All rights reserved - Tehvaroo
+        © All rights reserved - Ruang Teh
       </div>
     </div>
   </div>

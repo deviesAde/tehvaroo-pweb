@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Tehvaro</title>
+  <title>Ruang Teh</title>
 
   <!--
       - favicon
@@ -60,7 +60,7 @@
       <div class="overlay" data-overlay></div>
 
       <a href="#" class="logo" style="text-decoration: none; color: brown; font-weight: bold; font-size: 20px;">
-        Tehvaroo
+        Ruang Teh
       </a>
 
       <nav class="navbar" data-navbar>
@@ -78,11 +78,11 @@
       </nav>
 
       <div class="header-actions">
-        <a href="https://wa.me/6283846588978" class="btn btn-login" target="_blank">
+        <a href="https://wa.me/6283879443927" class="btn btn-login" target="_blank">
           <span>Contact</span>
         </a>
          <a href="{{ route('auth.index') }}" class="btn btn-login" target="_blank">
-          <span>LOGIN ADMIN</span>
+          <span>Login Admin</span>
         </a>
         
 
@@ -104,7 +104,7 @@
 
           <div class="hero-content">
             <h2 class="h1 hero-title" style="font-weight: 900;">
-              Tehvaroo
+              Ruang Teh
             </h2>
 
             <p class="hero-text">
@@ -229,7 +229,7 @@
           </a>
 
           <p class="footer-text">
-           Tehvaro adalah platform yang menyediakan berbagai macam produk terbaru dengan harga terjangkau.
+           Ruang Teh adalah platform yang menyediakan berbagai macam produk terbaru dengan harga terjangkau.
           </p>
         </div>
 
@@ -362,7 +362,7 @@
         </ul>
 
         <p class="copyright">
-          &copy; 2024 <a href="#">Tehvaro</a>. All Rights Reserved
+          &copy; 2024 <a href="#">Ruang Teh</a>. All Rights Reserved
         </p>
 
       </div>
